@@ -1,0 +1,12 @@
+# Mirrored S-Route Movement Instructions
+forward 0.5
+right 90
+forward 0.5
+right 90
+forward 0.5
+left 90
+forward 0.5
+left 90
+forward 0.5
+around 0
+reverse 0.5
